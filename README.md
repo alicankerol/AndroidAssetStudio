@@ -1,4 +1,4 @@
-*Android Asset Studio
+Android Asset Studio
 ====================
 
 **[Open the Android Asset Studio](http://huseyingumus.github.io/AndroidAssetStudio/)**
